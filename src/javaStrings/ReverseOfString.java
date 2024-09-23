@@ -4,7 +4,7 @@ public class ReverseOfString {
 
 	public static void main(String args[]) {
 	
-	String s= "MoM";
+	String s= "Mom";
 	
 	String rev="";
 	
